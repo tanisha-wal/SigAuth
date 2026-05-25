@@ -1,7 +1,4 @@
 # SigAuth
-
-Identity orchestration by Sigmoid Analytics.
-
 Production-style Identity Provider with OIDC Authorization Code + PKCE, multi-tenant admin console, RBAC, audit logs, invitation onboarding, password lifecycle controls, and app/group scoping.
 
 Integration documentation for external developers:
